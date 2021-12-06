@@ -1,3 +1,3 @@
 # Training Week 1
 
-Nothing to see here, just my repo for Go experimentation
+Nothing to see here, just my repo for Go experimentation and Coursera assignments
